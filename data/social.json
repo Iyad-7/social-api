@@ -1,1 +1,14 @@
-[]
+[
+  {
+    "socialId": 1758109791402,
+    "content": "Hello world!",
+    "author": "Alice",
+    "tags": [
+      "intro",
+      "fun"
+    ],
+    "createdAt": "2025-09-17T11:49:51.402Z",
+    "likes": 0,
+    "status": "published"
+  }
+]
